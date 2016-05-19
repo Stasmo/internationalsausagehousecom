@@ -1,0 +1,14 @@
+/* TEAM */
+
+        CHIEF ENGINEER: Simon Staszkiewicz
+        CONTACT: first and last name at gmail dot com
+        TWITTER: NO
+        HOBBIES: Guitar, Tattoos and Piercings, Video Games, Soccer
+
+/* THANKS */
+
+        Name: David Miller
+        Location: The world of Github
+
+        Name: Peter Karwowski
+        Location: Toiling away in the sausage house
